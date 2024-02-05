@@ -1,7 +1,7 @@
 const CONFIG = {
 
-  LANDING_HEADER_BUTTON_1_TITLE: 'Github开源',
-  LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
+  LANDING_HEADER_BUTTON_1_TITLE: 'LownRain',
+  LANDING_HEADER_BUTTON_1_URL: 'https://www.lownrain.com',
 
   LANDING_HEADER_BUTTON_2_TITLE: 'Follow Our X(Twitter)',
   LANDING_HEADER_BUTTON_2_URL: 'https://twitter.com/Flower__wink',
@@ -12,7 +12,7 @@ const CONFIG = {
   LANDING_HERO_BUTTON_1_TEXT: 'Buy on Amazon',
   LANDING_HERO_BUTTON_1_LINK: 'https://www.amazon.com/dp/B0CHJK2RLQ/',
   LANDING_HERO_BUTTON_2_TEXT: 'Contact Us',
-  LANDING_HERO_BUTTON_2_LINK: 'https://docs.tangly1024.com/about',
+  LANDING_HERO_BUTTON_2_LINK: 'mailto:ove@lownrain.com',
   LANDING_HERO_VIDEO_IMAGE: '/images/ear_bud_tips.jpg',
   //   HERO_VIDEO_URL: '/videos/video.mp4',
   LANDING_HERO_VIDEO_IFRAME: '//player.bilibili.com/player.html?aid=913088616&bvid=BV1fM4y1L7Qi&cid=1187218697&page=1&&high_quality=1',
