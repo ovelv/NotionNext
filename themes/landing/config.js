@@ -15,8 +15,8 @@ const CONFIG = {
   LANDING_HERO_BUTTON_2_LINK: 'mailto:ove@lownrain.com',
   LANDING_HERO_VIDEO_IMAGE: '/images/ear_bud_tips.jpg',
   //   HERO_VIDEO_URL: '/videos/video.mp4',
-  LANDING_HERO_VIDEO_IFRAME: '//player.bilibili.com/player.html?aid=913088616&bvid=BV1fM4y1L7Qi&cid=1187218697&page=1&&high_quality=1',
-  LANDING_HERO_VIDEO_TIPS: 'Watch the full video (2 min)',
+  LANDING_HERO_VIDEO_IFRAME: '<iframe width="352" height="626" src="https://www.youtube.com/embed/0zrHvdgcwMA" title="LownRain Ear Bud Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>',
+  LANDING_HERO_VIDEO_TIPS: 'Watch the full video',
 
   // 特性介绍
   LANDING_FEATURES_HEADER_1: 'LownRain Ear Bud Tips',
