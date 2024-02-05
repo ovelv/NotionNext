@@ -1,7 +1,7 @@
 const CONFIG = {
 
-  LANDING_HEADER_BUTTON_1_TITLE: '',
-  LANDING_HEADER_BUTTON_1_URL: '',
+  LANDING_HEADER_BUTTON_1_TITLE: 'Github开源',
+  LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
 
   LANDING_HEADER_BUTTON_2_TITLE: 'Follow Our X(Twitter)',
   LANDING_HEADER_BUTTON_2_URL: 'https://twitter.com/Flower__wink',
