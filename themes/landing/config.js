@@ -15,7 +15,7 @@ const CONFIG = {
   LANDING_HERO_BUTTON_2_LINK: 'mailto:ove@lownrain.com',
   LANDING_HERO_VIDEO_IMAGE: '/images/ear_bud_tips.jpg',
   //   HERO_VIDEO_URL: '/videos/video.mp4',
-  LANDING_HERO_VIDEO_IFRAME: 'https://www.youtube.com/embed/5cheCE5JPWM?si=Ia3ePHdAR6iuDzx4',
+  LANDING_HERO_VIDEO_IFRAME: 'https://www.youtube.com/embed/5cheCE5JPWM?si=Ia3ePHdAR6iuDzx4&autoplay=1',
   LANDING_HERO_VIDEO_TIPS: 'Watch the full video',
 
   // 特性介绍
