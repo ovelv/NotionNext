@@ -54,11 +54,11 @@ const CONFIG = {
   LANDING_TESTIMONIALS_NICKNAME: 'Timmah',
   LANDING_TESTIMONIALS_ID: 'Amazon Customer',
   LANDING_TESTIMONIALS_SOCIAL_NAME: '@Timmah',
-  LANDING_TESTIMONIALS_SOCIAL_URL: 'https://www.amazon.com/gp/profile/amzn1.account.AEC74XOKEJE7HUFIMR7SNQVEFUDA/',
+  LANDING_TESTIMONIALS_SOCIAL_URL: '',
   LANDING_TESTIMONIALS_WORD: '“ I have had so many sets of headphones over the years that are no longer usable due to the loss of these earbud thingy\'s. When I found these online, I was like, "now what am I gonna do with all these usable headphones?" Don\'t worry, I will probably lose the headphones quick enough, or at least lose the thingy\'s again, so the headphones will end up back in a drawer somewhere. Either way, I have extras and that is a good thing. “',
 
   LANDING_POST_REDIRECT_ENABLE: process.env.NEXT_PUBLIC_POST_REDIRECT_ENABLE || false, // 是否开启文章地址重定向 ； 用于迁移旧网站域名
-  LANDING_POST_REDIRECT_URL: process.env.NEXT_PUBLIC_POST_REDIRECT_URL || 'https://blog.tangly1024.com', // 重定向网站地址
+  LANDING_POST_REDIRECT_URL: process.env.NEXT_PUBLIC_POST_REDIRECT_URL || 'https://www.lownrain.com', // 重定向网站地址
 
   LANDING_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_LANDING_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
 }
