@@ -13,7 +13,7 @@ export default function Logo() {
                 </defs>
                 <rect width="32" height="32" rx="16" fill="url(#footer-logo)" fillRule="nonzero" />
                 <text x="42%" y="50%" textAnchor="middle" dominantBaseline="central" fontSize="24" fontFamily="'Century Gothic'" fontWeight="700" fontStyle="italic" fill="white">
-                    N
+                    L
                 </text>
             </svg>
         </Link>
