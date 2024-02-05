@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页大图英雄板块
   LANDING_HERO_TITLE_1: 'LownRain',
-  LANDING_HERO_P_1: 'Focus on earphone soft plugs,Creating a noise-free music zone for you',
+  LANDING_HERO_P_1: 'Focus on ear bud tips,Creating a noise-free music zone for you',
   LANDING_HERO_BUTTON_1_TEXT: 'Buy on Amazon',
   LANDING_HERO_BUTTON_1_LINK: 'https://www.amazon.com/dp/B0CHJK2RLQ/',
   LANDING_HERO_BUTTON_2_TEXT: 'Contact Us',
