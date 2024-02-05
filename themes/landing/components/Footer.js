@@ -45,7 +45,7 @@ export default function Footer() {
                             <Logo />
                         </div>
                         <div className="text-sm text-gray-600">
-                            <Link href="#" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">Terms of Service</Link> · <Link href="#" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">Privacy Policy</Link>
+                            <Link href="https://www.lownrain.com/Terms-of-Service" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">Terms of Service</Link> · <Link href="https://www.lownrain.com/Privacy-Policy" className="text-gray-600 hover:text-gray-900 hover:underline transition duration-150 ease-in-out">Privacy Policy</Link>
                         </div>
                     </div>
 
@@ -54,7 +54,7 @@ export default function Footer() {
                         <h6 className="text-gray-800 font-medium mb-2">Products</h6>
                         <ul className="text-sm">
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Ear Bud Tips</a>
+                                <a href="https://www.lownrain.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Ear Bud Tips</a>
                             </li>
                             <li className="mb-2">
                                 {/* <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Vercel</a> */}
@@ -73,7 +73,7 @@ export default function Footer() {
 
                     {/* 3rd block */}
                     <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                        <h6 className="text-gray-800 font-medium mb-2">Resources</h6>
+                        <h6 className="text-gray-800 font-medium mb-2"> </h6>
                         <ul className="text-sm">
                             <li className="mb-2">
                                 <a href="https://docs.tangly1024.com" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"> </a>
@@ -95,22 +95,22 @@ export default function Footer() {
 
                     {/* 4th block */}
                     <div className="sm:col-span-6 md:col-span-3 lg:col-span-2">
-                        <h6 className="text-gray-800 font-medium mb-2">Company</h6>
+                        <h6 className="text-gray-800 font-medium mb-2"> </h6>
                         <ul className="text-sm">
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Home</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"> </a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">About</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"> </a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Values</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"> </a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Prices</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"> </a>
                             </li>
                             <li className="mb-2">
-                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">Privacy Policy</a>
+                                <a href="#0" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"> </a>
                             </li>
                         </ul>
                     </div>

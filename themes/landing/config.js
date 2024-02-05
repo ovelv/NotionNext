@@ -1,6 +1,6 @@
 const CONFIG = {
 
-  LANDING_HEADER_BUTTON_1_TITLE: 'LownRain',
+  LANDING_HEADER_BUTTON_1_TITLE: 'Home',
   LANDING_HEADER_BUTTON_1_URL: 'https://www.lownrain.com',
 
   LANDING_HEADER_BUTTON_2_TITLE: 'Follow Our X(Twitter)',
