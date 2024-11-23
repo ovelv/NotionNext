@@ -106,7 +106,7 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: 'OnionAI Search',
-  HEO_SOCIAL_CARD_TITLE_2: 'AI Aggregated Search Engine is an all-in-one intelligent search platform that integrates mainstream AI tools and services',
+  HEO_SOCIAL_CARD_TITLE_2: 'AI Aggregated Search Engine',
   HEO_SOCIAL_CARD_TITLE_3: 'Start Experience',
   HEO_SOCIAL_CARD_URL: 'https://onionai.so',
 
