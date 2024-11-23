@@ -78,13 +78,13 @@ export default function SlideOver(props) {
                                         <div className="relative mt-6 flex-1 flex-col space-y-3 px-4 sm:px-6 dark:text-white ">
 
                                             <section className='space-y-2 flex flex-col'>
-                                                <div>功能</div>
+                                                <div>Features</div>
                                                 {/* 切换深色模式 */}
                                                 <DarkModeBlockButton />
                                             </section>
 
                                             <section className='space-y-2 flex flex-col'>
-                                                <div>博客</div>
+                                                <div>Blog</div>
                                                 {/* 导航按钮 */}
                                                 <div className='gap-2 grid grid-cols-2'>
                                                     <Button title={'主页'} url={'/'} />
@@ -95,7 +95,7 @@ export default function SlideOver(props) {
                                             </section>
 
                                             <section className='space-y-2 flex flex-col'>
-                                                <div>标签</div>
+                                                <div>Tags</div>
                                                 <TagGroups tags={tagOptions} />
                                             </section>
 
