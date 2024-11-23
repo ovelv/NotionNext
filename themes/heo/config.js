@@ -15,17 +15,17 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: 'OnionAI Prompt',
+  HEO_HERO_TITLE_2: 'Curated Prompts to Boost Your AI Creativity',
+  HEO_HERO_TITLE_3: 'onionai.so',
+  HEO_HERO_TITLE_4: 'OnionAI Search',
+  HEO_HERO_TITLE_5: 'Efficiently Access Multiple AI Tools',
+  HEO_HERO_TITLE_LINK: 'https://onionai.so',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: 'Must-Read Picks', url: '/tag/必看精选' },
+  HEO_HERO_CATEGORY_2: { title: 'Popular Articles', url: '/tag/热门文章' },
+  HEO_HERO_CATEGORY_3: { title: 'Practical Tutorials', url: '/tag/实用教程' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -105,10 +105,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_1: 'Communication Channel',
+  HEO_SOCIAL_CARD_TITLE_2: 'Join our Discord community for discussions and sharing',
+  HEO_SOCIAL_CARD_TITLE_3: 'Click to Join the Community',
+  HEO_SOCIAL_CARD_URL: 'https://onionai.so',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
