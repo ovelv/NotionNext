@@ -105,9 +105,9 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: 'Communication Channel',
-  HEO_SOCIAL_CARD_TITLE_2: 'Join our Discord community for discussions and sharing',
-  HEO_SOCIAL_CARD_TITLE_3: 'Click to Join the Community',
+  HEO_SOCIAL_CARD_TITLE_1: 'OnionAI Search',
+  HEO_SOCIAL_CARD_TITLE_2: 'AI Aggregated Search Engine is an all-in-one intelligent search platform that integrates mainstream AI tools and services',
+  HEO_SOCIAL_CARD_TITLE_3: 'Start Experience',
   HEO_SOCIAL_CARD_URL: 'https://onionai.so',
 
   // *****  以下配置无效，只是预留开发 ****
